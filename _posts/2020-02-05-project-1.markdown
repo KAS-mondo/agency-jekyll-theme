@@ -4,12 +4,12 @@ subtitle: Drip Brasil
 layout: default
 modal-id: 1
 date: 2020-02-05
-img: dreams.png
-thumbnail: MondoBoxBrasil.png
+img: MondoBoxBrasil.png
+thumbnail: MONDO LOGO .png
 alt: image-alt
 project-date: Drip Style Coffee
 client: Retail
 category: Beverage Industry
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Mondo is café-shop set-up by BB Company network where apart from buying tasty and diverse coffee, coffee aficionados will extend their passion beyond a cup of coffee in a good company of their friends.
 
 ---
