@@ -1,5 +1,6 @@
 ---
-title: MONDO 
+title: MONDO
+subtitle: passion beyond a cup
 layout: default
 modal-id: 1
 date: 2020-02-05
